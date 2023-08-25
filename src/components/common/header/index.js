@@ -14,7 +14,7 @@ const Header = () => {
           <div className="location-wrapper">
             <div className="location-icon-name">
               <i className="ri-map-pin-line absolute-center location-icon"></i>
-              <div>Bengaluru</div>
+              <div>Davanagere</div>
             </div>
             <i class="ri-arrow-down-s-fill absolute-center"></i>
           </div>
