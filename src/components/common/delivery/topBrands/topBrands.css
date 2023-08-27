@@ -1,0 +1,20 @@
+.top-brands {
+  padding-top: 30px;
+}
+
+.top-brands-cover {
+  height: 100%;
+  width: 100%;
+}
+
+.top-brands-image {
+  object-fit: cover;
+  /* height: 80%;
+  width: 80%; */
+  border-radius: 50%;
+  cursor: pointer;
+  /* border-radius: inherit; */
+  height: 100%;
+  width: 60%;
+  object-fit: cover;
+}
