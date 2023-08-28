@@ -7,33 +7,57 @@ import Slider from "react-slick";
 const topBrandsList = [
   {
     id: 1,
-    time: "27 mins",
+    time: "20 mins",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/a885e47933c4249549ea34bb6da52bd1_1583908641.png?output-format=webp",
+      "https://b.zmtcdn.com/data/brand_creatives/logos/1a985408ca7ad8fd097f2c47db9c5cb6_1611252598.png",
   },
   {
     id: 2,
-    time: "22 mins",
+    time: "23 mins",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/e6c395304d8705cb36adc3f921a220cf_1611323325.png?output-format=webp",
+      "https://b.zmtcdn.com/data/brand_creatives/logos/7a7904eff687a7456599074a4e7d2335_1617875100.png",
   },
   {
     id: 3,
-    time: "20 mins",
+    time: "21 mins",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/5ac1a32473ff14e18da2be886d5b9278_1650952810.png?output-format=webp",
+      "https://b.zmtcdn.com/data/brand_creatives/logos/ec72c289aa01d947fe15a009ce8e559f_1616052816.png",
   },
   {
     id: 4,
     time: "18 mins",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/466f8fc74274145f3b21795c3d21816d_1589433627.png?output-format=webp",
+      "https://b.zmtcdn.com/data/brand_creatives/logos/239f872f52291fe253a37cc8dd16188f_1663838300.png",
   },
   {
     id: 5,
-    time: "20 mins",
+    time: "29 mins",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/7059708ecf9568fc43490b7dad4c8f85_1672381765.png?output-format=webp",
+      "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187721.png",
+  },
+  {
+    id: 6,
+    time: "30 mins",
+    cover:
+      "https://b.zmtcdn.com/data/brand_creatives/logos/dc49d77dce0ee7fc8e495fa35be0e747_1648715086.png",
+  },
+  {
+    id: 7,
+    time: "19 mins",
+    cover:
+      "https://b.zmtcdn.com/data/brand_creatives/logos/3d80cb89fca9e212f7dab2c1914ebd8f_1643983621.png",
+  },
+  {
+    id: 8,
+    time: "24 mins",
+    cover:
+      "https://b.zmtcdn.com/data/brand_creatives/logos/ed9718e64b3307ae4aaee0bc81c1ea15_1625155163.png",
+  },
+  {
+    id: 9,
+    time: "25 mins",
+    cover:
+      "https://b.zmtcdn.com/data/brand_creatives/logos/80c09d718acddee05a655eb378bb442f_1617875125.png",
   },
 ];
 
