@@ -44,7 +44,6 @@ const Delivery = () => {
         <Filters filterList={deliveryFilters} />
       </div>
       <DeliveryCollections />
-      <TopBrands />
       <ExploreSection
         list={restaurantList}
         collectionName="Delivery Restaurants in Bengaluru"
